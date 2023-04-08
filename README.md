@@ -15,14 +15,14 @@
 
 <br>
 
-[![Natalia Emboava](https://github-readme-stats.vercel.app/api?username=nemboav&show_icons=true&theme=midnight-purple)]https://github.com/nemboav?tab=repositories
+[![Natalia Emboava](https://github-readme-stats.vercel.app/api?username=nemboav&show_icons=true&theme=midnight-purple)](https://github.com/nemboav?tab=repositories)
 <br>
 
 ---
 ### **Language and Tools**
 <br>
 
-[![My Stats](https://skillicons.dev/icons?i=js,html,css,c,java,cpp,github,linux,git,)](https://skillicons.dev)
+[![My Stats](https://skillicons.dev/icons?i=js,html,css,c,java,cpp,github,linux,git,)]
 
 <br>
 
