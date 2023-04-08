@@ -15,7 +15,7 @@
 
 <br>
 
-![Natalia Emboava](https://github-readme-stats.vercel.app/api?username=nemboav&show_icons=true&theme=midnight-purple)
+![Natalia Emboava](https://github-readme-stats.vercel.app/api?username=nemboav&show_icons=true&theme=midnight-purple)(https://github.com/nemboav?tab=repositories)
 <br>
 
 ---
