@@ -1,16 +1,28 @@
-### Hi there 👋
+### **Hey there👋, I'm Natalia**
+---
+#### **About me**
+<br>
 
-<!--
-**nemboav/nemboav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently an Information Systems student at Universidade Estadual de Campinas, Unicamp.
 
-Here are some ideas to get you started:
+🌱 Currently learning React, NodeJS and Pyhton.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 I do speak portuguese, english and spanish. 
+
+
+
+---
+
+<br>
+
+![Natalia Emboava](https://github-readme-stats.vercel.app/api?username=nemboav&show_icons=true&theme=midnight-purple)
+<br>
+
+---
+### **Language and Tools**
+<br>
+
+[![My Stats](https://skillicons.dev/icons?i=js,html,css,c,java,cpp,github,linux,git,)](https://skillicons.dev)
+
+<br>
+
