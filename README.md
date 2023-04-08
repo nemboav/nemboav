@@ -22,7 +22,7 @@
 ### **Language and Tools**
 <br>
 
-[![My Stats](https://skillicons.dev/icons?i=js,html,css,c,java,cpp,github,linux,git,)](https://skillicons.dev)
+[![My Stats](https://skillicons.dev/icons?i=js,html,css,c,java,cpp,github,linux,git,)]
 
 <br>
 
