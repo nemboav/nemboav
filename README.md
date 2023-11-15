@@ -7,7 +7,6 @@
 
 🌱 Currently learning React, NodeJS and Pyhton.
 
-🌎 I do speak portuguese, english and spanish. 
 
 
 
