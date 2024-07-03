@@ -5,7 +5,7 @@
 
 🎓 I'm currently an Information Systems student at Universidade Estadual de Campinas, Unicamp.
 
-🌱 Currently learning Python and Java.
+🌱 Currently learning about offensive security.
 
 
 
