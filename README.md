@@ -5,7 +5,7 @@
 
 🎓 I'm currently an Information Systems student at Universidade Estadual de Campinas, Unicamp.
 
-🌱 Currently learning about machine learning, data analysis and deep learning.
+🌱 Currently learning about offensive security, malware analysis and reverse engineering.
 
 
 
